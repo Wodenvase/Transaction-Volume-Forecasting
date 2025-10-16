@@ -70,5 +70,5 @@ The workflow is modularized into **five Jupyter Notebooks**, designed to be run 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone [https://github.com/Wodenvase/Transaction-Volume-Forecasting].git
+cd Transaction-Volume-Forecasting
